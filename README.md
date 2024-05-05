@@ -1,4 +1,4 @@
-- 👀 I’m interested in software development, database management and exploring new technologies.
+
 - 🌱 I’m currently learning advanced algorithms,data structures, as well as various programming techniques.
   
 
