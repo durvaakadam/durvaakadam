@@ -1,2 +1,8 @@
 
-🌱 Delving into advanced algorithms, data structures, and coding mastery.
+- 🌱 Diving deep into algorithms, data structures, and coding finesse.
+
+
+
+
+
+
