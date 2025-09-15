@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff9966,100:ff5e62&height=200&section=header&text=Durva%20Kadam&fontSize=54&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/durva-kadam-02a22a25a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
