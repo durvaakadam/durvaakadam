@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Durva%20Kadam&fontSize=48&fontColor=ffffff&animation=twinkling" />
 </p>
-<p align="center">
-  ✉️ durvaakadam@gmail.com | 📍 India
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/durva-kadam-02a22a25a/" target="_blank">
@@ -15,9 +13,7 @@
   <a href="https://drive.google.com/file/d/1InqUW_z0zQVcFy15ORfVTn93hSoqKgWx/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
   </a>
-  <a href="https://github.com/durvaakadam" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F61?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-  </a>
+
 </p>
 
 ---
