@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:36D1DC,100:5B86E5&height=220&section=header&text=Durva%20Kadam&fontSize=48&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff9966,100:ff5e62&height=200&section=header&text=Durva%20Kadam&fontSize=54&fontColor=ffffff&animation=fadeIn" />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/durva-kadam-02a22a25a/" target="_blank">
