@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">⚡ TECH STACK ⚡</h2>
+<h2 align="center"> TECH STACK</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,nextjs,mongodb,mysql,java,tailwind,git,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,postman,express,flask,prisma,postgres,redis,kafka" />
