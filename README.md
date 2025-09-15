@@ -17,7 +17,7 @@
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -26,7 +26,7 @@
  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
----
+
 
 <h2 align="center"> TECH STACK</h2>
 <p align="center">
