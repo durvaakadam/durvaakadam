@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats  
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&hide=jupyter%20notebook" alt="Top Languages"/>
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true" alt="Top Languages"/>
 </p>
 
