@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=0:ff9966,100:ff5e62&height=100&section=header&text=Durva%20Kadam&fontSize=54&fontColor=ffffff&animation=fadeIn" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=55&pause=600&color=FFB4A2&width=900&height=200&center=true&lines=🎯+Hi%2C+I'm+Durva+Kadam.;AI/ML+%7C+Full+Stack+%7C+Open+Source." />
+
+
+
+
 </p>
 
 <p align="center">
