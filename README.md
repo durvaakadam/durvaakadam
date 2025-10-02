@@ -17,21 +17,19 @@
   </a>
 </p>
 
-<h2 align="center"> GITHUB STATS</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- GitHub Stats -->
-  <img height="163em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
-  <!-- Repos per language -->
-  <img height="163em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvaakadam&theme=dark" alt="Repos per Language" />
+<h2 align="left"> GITHUB STATS</h2>
 
-  <!-- Profile details -->
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvaakadam&theme=dark" alt="Profile Details" />
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durvaakadam&theme=dark" alt="Most Commit Language" height="160" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvaakadam&theme=dark" alt="Repos per Language" height="160" />
+  <br/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvaakadam&theme=dark" alt="Profile Details" height="160" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=durvaakadam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
+</div>
 
-  <!-- Streak -->
-  <img height="161em" src="https://streak-stats.demolab.com?user=durvaakadam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" />
-</p>
 
 <h2 align="center"> TECH STACK</h2>
 <p align="center">
