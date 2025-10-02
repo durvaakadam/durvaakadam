@@ -38,7 +38,3 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,nextjs,mongodb,mysql,java,tailwind,git,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,postman,express,flask,prisma,postgres,redis,kafka" />
 </p>
-
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.”</em> – Cory House
-</p>
