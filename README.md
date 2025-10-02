@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
-## GitHub Stats  
+<h2 align="left"> GITHUB STATS</h2>
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Main GitHub stats -->
