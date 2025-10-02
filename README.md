@@ -36,3 +36,11 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,nextjs,mongodb,mysql,java,tailwind,git,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,postman,express,flask,prisma,postgres,redis,kafka" />
 </p>
+
+<h2 align="left">HACKTOBERFEST BADGES</h2>
+
+[![](https://visitcount.itsvg.in/api?id=durvaakadam&icon=0&color=0)](https://visitcount.itsvg.in)
+[![An image of @durvaakadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durvaakadam)](https://holopin.io/@durvaakadam)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
