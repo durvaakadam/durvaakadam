@@ -20,13 +20,16 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
-
-##  GitHub Stats  
+## GitHub Stats  
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&hide=jupyter%20notebook,jupyter-notebook&cache_seconds=1800" alt="Top Languages"/>
+  <!-- Main GitHub stats -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Top languages -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages"/>
 </p>
+
 
 <h2 align="center"> TECH STACK</h2>
 <p align="center">
