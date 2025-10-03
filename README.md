@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=900&height=150&center=true&lines=🎯+Hi%2C+I'm+Durva+Kadam." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=900&height=150&center=true&lines=%F0%9F%8E%AF+Hi%2C+I'm+Durva+Kadam." />
 </p>
 
 <p align="center">
@@ -17,21 +17,18 @@
   </a>
 </p>
 
-
-
 <h2 align="left"> GITHUB STATS</h2>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=durvaakadam&theme=dark" alt="Most Commit Language" height="160" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=durvaakadam&theme=dark" alt="Repos per Language" height="160" />
-  <br/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=durvaakadam&theme=dark" alt="Profile Details" height="160" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=durvaakadam&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" alt="GitHub Streak" height="160" />
-</div>
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Main GitHub stats (dark theme) -->
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 
+  <!-- Top languages (dark theme) -->
 
-<h2 align="center"> TECH STACK</h2>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages"/>
+</p>
+
+<h2 align="left"> TECH STACK</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react,nodejs,python,js,ts,nextjs,mongodb,mysql,java,tailwind,git,github,firebase" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,postman,express,flask,prisma,postgres,redis,kafka" />
@@ -39,8 +36,15 @@
 
 <h2 align="left">HACKTOBERFEST BADGES</h2>
 
-[![](https://visitcount.itsvg.in/api?id=durvaakadam&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=durvaakadam\&icon=0\&color=0)](https://visitcount.itsvg.in)
 [![An image of @durvaakadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durvaakadam)](https://holopin.io/@durvaakadam)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!-- Notes: -->
+
+<!-- - The contribution graph above uses the "react-dark" theme from activity-graph.herokuapp.com. -->
+
+<!-- - GitHub Readme Stats images are set to theme=dark for a consistent dark appearance. -->
+
+<!-- - If you want a different dark style (e.g., "radical" or "nord"), replace theme=dark with your preferred theme in the image URLs. -->
