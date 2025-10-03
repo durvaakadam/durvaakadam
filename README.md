@@ -1,5 +1,5 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=900&height=150&center=true&lines=%F0%9F%8E%AF+Hi%2C+I'm+Durva+Kadam." />
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /><p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=700&height=120&center=true&lines=%F0%9F%8E%AF+Hi%2C+I'm+Durva+Kadam." />
 </p>
 
 <p align="center">
