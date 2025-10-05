@@ -21,9 +21,10 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <!-- Main GitHub stats (dark theme) -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
+
   <!-- Top languages (dark theme) -->
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages"/>
 </p>
 
 <h2 align="left"> TECH STACK</h2>
