@@ -2,6 +2,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=700&height=120&center=true&lines=%F0%9F%8E%AF+Hi%2C+I'm+Durva+Kadam." />
 </p>
 
+
 <p align="center">
   <a href="https://www.linkedin.com/in/durva-kadam-02a22a25a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
