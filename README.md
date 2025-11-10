@@ -24,9 +24,11 @@
   <!-- Main GitHub stats (dark theme) -->
     <img src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
 <!-- Top languages (dark theme) excluding Jupyter repo -->
-<img height="175em" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=Handwritten-Equation-Solver" 
-     alt="Top Languages"/>
+<img 
+  height="175em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe" 
+  alt="Top Languages"
+/>
 
 
 <h2 align="left">HACKTOBERFEST BADGES</h2>
