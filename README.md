@@ -18,18 +18,19 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
   </a>
 </p>
+<!-- <h2 align="left">📊 GitHub Stats</h2>
 
-<h2 align="left"> GITHUB STATS</h2>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe&cache_seconds=86400"
+    height="180"
+  />
+</p> -->
 
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- Main GitHub stats (dark theme) -->
-    <img src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true&rank_icon=github&count_private=true" height="180" />
-<!-- Top languages (dark theme) excluding Jupyter repo -->
-<img 
-  height="175em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&count_private=true&include_all_commits=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe" 
-  alt="Top Languages"
-/>
 
 
 <h2 align="left">HACKTOBERFEST BADGES</h2>
