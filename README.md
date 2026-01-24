@@ -1,49 +1,38 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /><p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=600&color=FFB4A2&width=700&height=120&center=true&lines=Hi%2C+I'm+Durva+Kadam." />
+<br/>
+<br/>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=44&pause=800&color=F6C1CC&center=true&vCenter=true&width=920&lines=Hi%2C+I'm+Durva+Kadam;Developer.+Builder.+Learner."
+  />
 </p>
 
 
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/durva-kadam-02a22a25a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img height="44" src="https://img.shields.io/badge/LinkedIn-4B6CB7?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:durvakadam204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:durvakadam204@gmail.com">
+    <img height="44" src="https://img.shields.io/badge/Gmail-B85750?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1InqUW_z0zQVcFy15ORfVTn93hSoqKgWx/view" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=readme&logoColor=white" alt="Resume"/>
+  <a href="https://drive.google.com/file/d/1InqUW_z0zQVcFy15ORfVTn93hSoqKgWx/view">
+    <img height="44" src="https://img.shields.io/badge/Resume-5C5470?style=for-the-badge&logo=readme&logoColor=white"/>
   </a>
-  <a href="https://x.com/durvaakadam" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/>
+  <a href="https://x.com/durvaakadam">
+    <img height="44" src="https://img.shields.io/badge/X-2E2E2E?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
 </p>
-<!-- <h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=durvaakadam&show_icons=true&theme=radical&hide_border=true&rank_icon=github&cache_seconds=86400"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=durvaakadam&layout=compact&langs_count=6&theme=radical&hide_border=true&exclude_repo=Handwritten-Equation-Solver,Mathscribe&cache_seconds=86400"
-    height="180"
-  />
-</p> -->
 
 
 
-<h2 align="left">HACKTOBERFEST BADGES</h2>
+
+
+<h2 align="left"> ✦ About Me</h2>
+I like building things that work, scale, and look good doing it.  
+Currently exploring software engineering, open source, and systems that reward clean thinking.
+
+
+<h2 align="left"> ✦ Open Source</h2>
 
 [![](https://visitcount.itsvg.in/api?id=durvaakadam\&icon=0\&color=0)](https://visitcount.itsvg.in)
 [![An image of @durvaakadam's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/durvaakadam)](https://holopin.io/@durvaakadam)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Notes: -->
-
-<!-- - The contribution graph above uses the "react-dark" theme from activity-graph.herokuapp.com. -->
-
-<!-- - GitHub Readme Stats images are set to theme=dark for a consistent dark appearance. -->
-
-<!-- - If you want a different dark style (e.g., "radical" or "nord"), replace theme=dark with your preferred theme in the image URLs. -->
